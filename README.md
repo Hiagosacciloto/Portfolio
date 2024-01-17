@@ -1,15 +1,18 @@
 # Bem-vindo(a) ao meu Portfólio de Análise e Ciência de Dados!
 
-## Projetos
-
+## PROJETOS
+_______________
+### Python
+_______________
+### 📊 Análise Exploratória dos Dados da Olist
 
 
 
 
 
 _______________
-## 📬 Entre em Contato
-Estou sempre receptivo a sugestões e oportunidades de melhoria! Caso você tenha alguma dúvida, comentário ou queira estabelecer contato comigo, não hesite em fazê-lo por meio dos seguintes canais:
+## 📬 CONTATO
+Estou sempre receptivo a sugestões e oportunidades de melhoria! Se tiver dúvidas, comentários ou desejar entrar em contato, sinta-se à vontade para fazê-lo pelos seguintes canais:
 
 Links para me acharem:
 
