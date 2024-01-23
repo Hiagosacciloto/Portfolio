@@ -4,8 +4,8 @@
 _______________
 ### Python
 _______________
-### 📊 Análise Exploratória dos Dados da Olist
-
+### 📊[Análise Exploratória dos Dados do Olist](https://github.com/Hiagosacciloto/EDA_Olist)
+<img src="https://github.com/Hiagosacciloto/Portfolio/assets/128402589/55e606eb-5f9e-44b3-afd3-d2a8c0579590" width="450">
 
 
 
